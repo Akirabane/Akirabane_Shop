@@ -1,0 +1,7 @@
+name: AkirabaneShop
+version: 1.0
+author: Akirabane
+main: fr.akirabane.akirabaneshop.Main
+api-version: 1.16
+commands:
+  boutique:
